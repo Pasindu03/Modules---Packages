@@ -4,6 +4,4 @@ def add(a, b):
 
 if __name__ == "__main__":
     print("this code runs when the code is executed directly")
-    print(add(3,4))
-
-    
+    print(add(3,4))    
